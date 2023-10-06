@@ -1,2 +1,2 @@
 # Dice-game
-Dice game I've developed which is written with Python. 
+Dice game that I've developed which is written with Python. 
